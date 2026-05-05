@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا نور الليل وسر الغرام
+> عشقتك شوقاً وفاق الكلام
+> تعال إلي لندفئ الظلام
+> ونحيا الليالي بفيض الوئام
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
