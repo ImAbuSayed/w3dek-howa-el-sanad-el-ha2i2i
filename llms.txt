@@ -10,9 +10,10 @@
 |-------|---------|
 | Title | W3dek Howa El Sanad El Ha2i2i |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | April 20, 2026 |
+| Lyric Writing Date | May 05, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/w3dek-howa-el-sanad-el-ha2i2i/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Secure Licensing Rights for W3dek Howa El Sanad El Ha2i2i](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
